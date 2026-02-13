@@ -422,14 +422,14 @@ export default function Home() {
               />
             </div>
           </div>
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-teal-600 via-cyan-600 to-blue-600 mb-4 tracking-tight">
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-teal-600 via-cyan-600 to-blue-600 mb-4 tracking-tight">
             你家的水，從哪裡來？
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-2">
             讓我們與河流重修舊好
           </p>
           <p className="text-sm text-gray-500">
-            ReRiver
+            
           </p>
         </div>
 
@@ -610,7 +610,7 @@ export default function Home() {
           <div className="flex flex-col items-center gap-6 relative z-10">
             <div className="flex items-center gap-2">
               <img src="/logo.png" alt="河川之初" className="h-8 object-contain" style={{background: 'transparent'}} />
-              <span className="text-gray-600 text-sm">ReRiver · 讓我們與河流重修舊好</span>
+              <span className="text-gray-600 text-sm">讓我們與河流重修舊好</span>
             </div>
             <div className="flex gap-6">
               <a 
@@ -651,7 +651,7 @@ export default function Home() {
               </a>
             </div>
             <p className="text-xs text-gray-500">
-              © 2026 河川之初 Taiwan River. All rights reserved.
+              © 2026 河好如初 ReRiver. All rights reserved.
             </p>
           </div>
         </div>
